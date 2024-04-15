@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "844258981758",
+    "firebase_url": "https://microporcessor-default-rtdb.firebaseio.com",
+    "project_id": "microporcessor",
+    "storage_bucket": "microporcessor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844258981758:android:be209c3db5eb292a8ce52f",
+        "android_client_info": {
+          "package_name": "com.example.microprocessor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqwJ2MFwkGLB_okwtX-QAheXIMePkX84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
